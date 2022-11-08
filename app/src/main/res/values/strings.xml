@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResourscesIntro</string>
+    <string name="greeting">Welcome to this app</string>
+    <string name="message">Press here for a secret message</string>
+    <string name="surprise">Hello you little cutie pie</string>
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greeting">Välkommen till denna lelle appen</string>
+    <string name="message">Tryck här om du vågar</string>
+    <string name="surprise">Hallå där din lille skit</string>
+
+
+
+</resources>
